@@ -1,5 +1,3 @@
-# Elder-Scrolls-Legends
-
 # Install node modules
 $ npm install 
 
@@ -28,3 +26,5 @@ In addition to the above features, below are some additional feature:
 - HTML.
 - CSS.
 - Axios.
+
+
